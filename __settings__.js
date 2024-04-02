@@ -6,6 +6,7 @@ window.CONTEXT_OPTIONS = {
     'alpha': false,
     'preserveDrawingBuffer': false,
     'preferWebGl2': true,
+    'preferWebGpu': false,
     'powerPreference': "high-performance"
 };
 window.SCRIPTS = [ 167276885, 167282742 ];
